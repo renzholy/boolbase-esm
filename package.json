@@ -1,0 +1,23 @@
+{
+  "name": "boolbase-esm",
+  "version": "1.0.0",
+  "description": "two functions: One that returns true, one that returns false",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renzholy/boolbase-esm"
+  },
+  "keywords": [
+    "boolean",
+    "function"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzholy/boolbase-esm/issues"
+  },
+  "homepage": "https://github.com/renzholy/boolbase-esm"
+}
